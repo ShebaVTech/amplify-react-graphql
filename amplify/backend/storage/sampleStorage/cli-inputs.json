@@ -1,0 +1,14 @@
+{
+  "resourceName": "sampleStorage",
+  "policyUUID": "9671f723",
+  "bucketName": "amplifyreactgraphql39d066851ce34e02a70b2f05a6e9",
+  "storageAccess": "auth",
+  "guestAccess": [],
+  "authAccess": [
+    "CREATE_AND_UPDATE",
+    "READ",
+    "DELETE"
+  ],
+  "triggerFunction": "NONE",
+  "groupAccess": {}
+}
